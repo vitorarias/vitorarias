@@ -9,4 +9,4 @@
 
 
 [twitter]: https://twitter.com/VitorArias_
-[linkedin]: linkedin.com/in/vítor-arias-558a9711b
+[linkedin]: https://linkedin.com/in/vítor-arias-558a9711b
