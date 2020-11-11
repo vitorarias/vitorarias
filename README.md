@@ -7,7 +7,7 @@
 [<img align="left" alt="VitorArias_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Vítor Arias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vítor Arias | Rocketseat" width="14px" src="https://svgsilh.com/svg/2442125.svg" />][rocketseat]
-[<img align="left" alt="Vítor Arias | Passaporte GoStack" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/620/620831.svg" />][passaporte]
+[<img align="left" alt="Vítor Arias | Passaporte GoStack" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/620/620831.svg" />][passaporte]
 
 [twitter]: https://twitter.com/VitorArias_
 [linkedin]: https://linkedin.com/in/vítor-arias-558a9711b
