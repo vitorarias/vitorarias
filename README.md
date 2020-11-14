@@ -1,4 +1,4 @@
-### Hi there, I'm Vítor 🖖
+### Hi there, I'm Vítor ✌
 
 - 📐🎓🚀 I'm Production/Software Engineer
 
