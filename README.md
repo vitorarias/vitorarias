@@ -12,4 +12,4 @@
 [twitter]: https://twitter.com/VitorArias_
 [linkedin]: https://linkedin.com/in/vítor-arias-558a9711b
 [rocketseat]: https://app.rocketseat.com.br/me/vitor-arias
-[passaporte]: https://gostack.rocketseat.com.br/14/vitor-arias-1567143229
+[passaporte]: https://gostack.rocketseat.com.br/14/vitor-arias
