@@ -14,5 +14,4 @@
 [linkedin]: https://linkedin.com/in/vítor-arias-558a9711b
 [rocketseat]: https://app.rocketseat.com.br/me/vitor-arias
 [passaporte]: https://gostack.rocketseat.com.br/14/vitor-arias
-[certificado]: https://app.rocketseat.com.br/api/certificates/pdf/739211c7-2c10-4961-9e21-36f3d166f91e
-
+[certificado]: https://app.rocketseat.com.br/certificates/739211c7-2c10-4961-9e21-36f3d166f91e
